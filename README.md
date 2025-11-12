@@ -31,12 +31,9 @@
 # 1. 安装依赖
 npm install
 
-# 2. 复制配置模板
-copy config.example.json config.json
+# 2. 编辑 config.json 填入您的配置
 
-# 3. 编辑 config.json 填入您的配置
-
-# 4. 运行脚本
+# 3. 运行脚本(下注成功后Ctrl + C结束)
 node place-bet-secure.min.js
 ```
 
