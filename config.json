@@ -1,0 +1,6 @@
+{
+  "rpcUrl": "https://mainnet.helius-rpc.com/?api-key=17bc7417-7eb1-41b6-be51-2da691ad15f9",
+  "secretKeyBase58": "",
+  "amountSol": 0.0001,
+  "squares": [1, 2, 3]
+}
